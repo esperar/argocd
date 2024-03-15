@@ -7,6 +7,6 @@ configs:
         xxxxxxxxxxx
         -----END OPENSSH PRIVATE KEY-----
   repositories:
-    k8s-class:
-      name: k8s-class
+    argocd:
+      name: argocd
       url: git@github.com:esperar/argocd.git
