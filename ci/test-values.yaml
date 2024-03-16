@@ -4,7 +4,7 @@ configs:
       url: git@github.com:esperar
       sshPrivateKey: |
         -----BEGIN OPENSSH PRIVATE KEY-----
-        xxxxxxxxxxx
+        xxxxxxxxxxxxxxxx
         -----END OPENSSH PRIVATE KEY-----
   repositories:
     argocd:
